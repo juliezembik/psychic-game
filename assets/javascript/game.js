@@ -29,17 +29,17 @@ const updateGuessedLetters = function() {
   console.log("updateGuessedLetters works!");
 };
 
-//runs functions to start game
-randomizeLetters();
+//load everytime the page refreshes;
 updateGuessCounter();
+randomizeLetters();
 
-const reset = function() {
-  guessesLeftCounter = 9;
+function reset() {
   guessedLetters = [];
+  guessesLeftCounter = 9;
   updateGuessCounter();
   randomizeLetters();
   updateGuessedLetters();
-};
+}
 
 document.onkeydown = function(event) {
   console.log("onkeydown works!", event);
