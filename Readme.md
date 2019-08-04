@@ -37,4 +37,5 @@ Basic image of the Game
 
 
 Gif of the Game
+
 <img src="./assets/images/Psychic-Game.gif" width="400px" />
