@@ -37,4 +37,4 @@ Basic image of the Game
 
 
 Gif of the Game
-<img src="https://gfycat.com/basicunlinedhammerheadbird.gif" />
+![](./assets/images/)
