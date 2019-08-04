@@ -37,4 +37,4 @@ Basic image of the Game
 
 
 Gif of the Game
-![](./assets/images/)
+![gif of game](./assets/images/Psychic-Game.gif)
