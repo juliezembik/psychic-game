@@ -37,4 +37,4 @@ Basic image of the Game
 
 
 Gif of the Game
-<div style='position:relative; padding-bottom:calc(93.91% + 44px)'><iframe src='https://gfycat.com/ifr/BasicUnlinedHammerheadbird' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<img src="https://gfycat.com/basicunlinedhammerheadbird.gif" />
