@@ -33,7 +33,7 @@ Psychic game is created to demonstrate the use of:
 
 Basic image of the Game
 
-![basic image of the game](./assets/images/psychic-gameimage.png)
+<img src="./assets/images/psychic-gameimage.png" width="300px" />
 
 
 Gif of the Game
